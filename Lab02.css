@@ -1,0 +1,35 @@
+.firstDiv{
+    background-color: black;
+    display: block;
+    text-align: center;
+}
+
+.div2{
+    display: block;
+    text-align: center;
+}
+
+.div3{
+    display: block;
+    text-align: center;
+}
+
+.div4{
+    display: block;
+    text-align: center;
+}
+
+.projects {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.project1 {
+    background-color: black;
+    border: 2px;
+
+    display: inline-block;
+    width: 250px;
+}
+
